@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Complaint Register</string>
+    <string name="admin">Admin Login</string>
+    <string name="register">Register A Complaint</string>
+    <string name="login_button">LogIn</string>
+    <string name="hint_email">E-Mail</string>
+    <string name="hint_password">Password</string>
+    <string name="comp_signup">SignUp</string>
+    <string name="phone_no">Phone No</string>
+    <string name="confirmPass">Confirm Password</string>
+    <string name="age">Age</string>
+    <string name="username">Username</string>
+    <string name="status">Complaint Status</string>
+    <string name="logoutBtn">LogOut</string>
+    <string name="subject">Subject</string>
+    <string name="desc">Complaint Description</string>
+    <string name="dateHint">Date</string>
+    <string name="plceHint">Place</string>
+    <string name="sbmtbtn">Submit</string>
+</resources>
